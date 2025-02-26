@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm James Petkin!
 
-Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, backend developer, and aspiring AI researcher. My journey combines technical expertise, real-world experience, and a drive to continuously grow and learn.
+Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, backend developer, and aspiring AI researcher. My journey combines technical expertise, real-world experience, and a drive to grow and learn continuously.
 
 ---
 
@@ -10,13 +10,6 @@ Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, backe
 - 🧠 Exploring the fascinating worlds of **generative AI** and **deep learning**.
 - 📜 Recently earned the **Google AI Essentials Certificate**.
 - 💪 Working on becoming a **secure attachment type** to build better relationships.
-
----
-
-### 🌱 I’m currently learning
-- **Linear Algebra** to strengthen my AI and ML foundations.
-- Enhancing my backend development and data engineering skills.
-- Designing innovative Cloud/Database projects for my senior capstone.
 
 ---
 
@@ -34,21 +27,16 @@ Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, backe
 ---
 
 ### 🏆 Projects
-- **Bone Fracture Analysis with Deep Learning**: Aiming to assist healthcare professionals with automated detection and analysis.
-- **Video Game CD Key Database**: Designing a system with CRUD operations and transaction management.
+- **Bone Fracture Analysis with Deep Learning**: Aimed at assisting healthcare professionals with automated detection and analysis.
+- **Video Game CD Key Database**: Designed a system with CRUD operations and transaction management.
+- **Capstone Project**: Designing a project for the Human Performance Lab to help them automate and store their tests in the cloud and generate reports for them.
 
 ---
 
 ### 💬 Ask me about
 - Tips for **data visualization** or designing **AI projects**.
 - How to make sense of Bayesian inference (or why it matters!).
-
----
-
-### 👯 I’m looking to collaborate on
-- AI-driven projects that have a **real-world impact**.
-- Initiatives exploring **generative AI** and cutting-edge **data science** solutions.
-
+  
 ---
 
 ### 📫 How to reach me
