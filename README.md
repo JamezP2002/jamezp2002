@@ -9,16 +9,15 @@ Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, backe
 - 🖥️ **Teaching Assistant** at SCSU, helping students navigate Data Visualization and Sports Exercise data science.
 - 🧠 Exploring the fascinating worlds of **generative AI** and **deep learning**.
 - 📜 Recently earned the **Google AI Essentials Certificate**.
-- 💪 Working on becoming a **secure attachment type** to build better relationships.
 
 ---
 
 ### 🛠️ Skills & Tools
 #### 🧑‍💻 Technical:
-- Programming: **Python**, **R**, **SQL**
+- Programming: **Python**, **R**, **SQL**, **NoSQL**
 - Data Science & ML: **FastAI**, **PyTorch**, **KNN**
-- Cloud: **AWS (ECS, Snowflake)**, **GCP**
-- Tools: **Airflow**, **Jenkins**, **Git**, **MySQL**, **PopSQL**
+- Cloud: **AWS (EC2, S3)**
+- Tools: **Airflow**, **Jenkins**, **Git**, **MySQL**, **PopSQL**, **MongoDB**
 
 #### 🌟 Soft Skills:
 - **Leadership**, **teamwork**, and **public speaking**.
