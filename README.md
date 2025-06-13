@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, Analy
 ---
 
 ### 📫 How to reach me
-- **LinkedIn**: [LinkedIn Profile Link]([https://linkedin.com/in/james-petkin])
+- **LinkedIn**: [james-petkin](https://linkedin.com/in/james-petkin)
 
 ---
 
