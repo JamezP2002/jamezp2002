@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm James Petkin!
 
-Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, Analyst, Engineer, and aspiring AI researcher. My journey combines technical expertise, real-world experience, and a drive to grow and learn continuously.
+Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, Analyst, Engineer, and aspiring AI researcher. My journey combines technical expertise, real-world experience, and a drive to grow and learn continually.
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate and curious Data Scientist, Analy
 ---
 
 ### 🏆 Projects
-- **Healthcare Cost Prediction (Underway)**: Explored patient health data and built a regression model to predict medical charges based on age, BMI, and smoking status.
+- **Healthcare Cost Prediction**: Explored patient health data and built a regression model to predict medical charges based on age, BMI, and smoking status.
 - **Human Performance Lab Data Management System**: Designed a capstone project for the Human Performance Lab to help them automate and store their tests in the cloud and generate reports for them.
 - **Bone Fracture Analysis with Deep Learning**: Aimed at assisting healthcare professionals with automated detection and analysis.
 - **Video Game CD Key Database**: Designed a system with CRUD operations and transaction management.
